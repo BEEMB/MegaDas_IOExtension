@@ -1,0 +1,11 @@
+In this folder you will find some exemples to know how to use the extension module library 
+
+--*-- The DigitalRead exemple:
+      This exemple shows how to read digital input value from the extension input pins
+      The code is so simple! just using one API which is DigitalRead
+      like the Arduino digitalRead API 
+      
+--*-- The DigitalWrite exemple:
+      This exemple shows how to write digital output value over the extension output pins
+      The code is so simple! just using one API which is DigitalWrite
+      like the Arduino digitalWrite API 
