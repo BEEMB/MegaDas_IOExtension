@@ -15,18 +15,7 @@ Our goal is to satisfy the users desires by making a Hardware and Software solut
 
 The IOExtension module is based on four shift registers (74HC595) to provide 16 Digital Inputs and 16 Digital Outputs, you will need only four pins in your Dev Board to control the module, plus the Vcc and the Gnd pins.
 
-|--------------------|-------------------------|----------------------|----------------------------------------------------------------------------------------------------|
-|    I/O Label       |         Type            |     HARDWARE PIN     |                                              Description                                           |
-|--------------------|-------------------------|----------------------|----------------------------------------------------------------------------------------------------|
-|    shift_clock     |    Digital INPUT        |         SH_CP        | Shift Register Clock Input. A low– to–high transition onthis input causes the data at the Serial   |
-|                    |                         |                      | Input pin to be shiftedinto the 8–bit shift register.                                              |
-|--------------------|-------------------------|----------------------|----------------------------------------------------------------------------------------------------|
-|       data         |    Digital INPUT        |          DS          | Serial Data Input. The data on this pin is shifted into the 8–bit serial shift register.           |                           
-|--------------------|-------------------------|----------------------|----------------------------------------------------------------------------------------------------|
-|    store_clock     |    Digital INPUT        |         ST_CP        | Storage Latch Clock Input. A low–to–high transition on this input latches the shift register data. |                                             |
-|--------------------|-------------------------|----------------------|----------------------------------------------------------------------------------------------------|
-|       IN_P         |    Digital INPUT        |         IN_P         | Use a simple digital Pin to read the inputs                                                        |
-|--------------------|-------------------------|----------------------|----------------------------------------------------------------------------------------------------|*/
+
 
 
 The module can be connected to any Dev Board because of its flexible library.
