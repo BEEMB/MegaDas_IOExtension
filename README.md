@@ -15,7 +15,7 @@ Our goal is to satisfy the users desires by making a Hardware and Software solut
 
 The IOExtension module is based on four shift registers (74HC595) to provide 16 Digital Inputs and 16 Digital Outputs, you will need only four pins in your Dev Board to control the module, plus the Vcc and the Gnd pins.
 
-![myimage-alt-tag](https://github.com/BEEMB/MegaDas_IOExtension/MegaDas_IOExtension/IOExtension_Module_Pinout.png)
+![myimage-alt-tag](IOExtension_Module_Pinout.png)
 
 
 The module can be connected to any Dev Board because of its flexible library.
