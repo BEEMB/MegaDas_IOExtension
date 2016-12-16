@@ -18,6 +18,8 @@ The IOExtension module is based on four shift registers (74HC595) to provide 16 
 ![myimage-alt-tag](IOExtension_Module_Pinout.png)
 
 
+I recommend for you the easyEDA which is a web-based EDA tool suite that enables hardware engineers to design, simulate, share - publicly and privately - and discuss schematics, simulations and printed circuit boards for sure with the ability of en ligne orders.
+So you can make your own PCB for this module or for your other projects and here is the link for the [easyEDA](https://www.easyeda.com ).
 The module can be connected to any Dev Board because of its flexible library.
 
 
